@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "planificador.h": "c",
+        "cola_fifo.h": "c",
+        "botones_drv.h": "c",
+        "int_externas_hal.h": "c"
+    }
+}
